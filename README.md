@@ -7,3 +7,6 @@ Just like a Linear Regression model, a Logistic Regression model computes a weig
 If the logistic is strictly inferior to 0.5 we predict class 0 , else we predict class 1.
 
 This is a beginners code that directly goes through the essetials of logistic regression , as in calculating the sigmoid function , training and fitting process.
+
+For more in détails about logistic regression: https://en.wikipedia.org/wiki/Logistic_regression
+
